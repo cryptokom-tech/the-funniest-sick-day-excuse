@@ -1,10 +1,10 @@
 # The Funniest Sick-Day Excuse
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/c/u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
-[![make.fun bounty](https://make.fun/badge/bounty.svg)](https://make.fun/c/u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
-[![make.fun entry](https://make.fun/badge/entry.svg)](https://make.fun/c/u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
+[![make.fun · u-zeroxfive-the-funniest-sick-day-excuse-37423a36](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36.svg)](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
+[![rank](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/cryptokom-tech/the-funniest-sick-day-excuse/rank.svg)](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
+[![reward](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/cryptokom-tech/the-funniest-sick-day-excuse/reward.svg)](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
 
-Entry for the [make.fun bounty "The Funniest Sick-Day Excuse"](https://make.fun/c/u-zeroxfive-the-funniest-sick-day-excuse-37423a36): one line, under 200 characters, that someone could send to call in sick — the funniest excuse that can be landed in one breath, and nothing else.
+Entry for the [make.fun bounty "The Funniest Sick-Day Excuse"](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36): one line, under 200 characters, that someone could send to call in sick — the funniest excuse that can be landed in one breath, and nothing else.
 
 ## The line
 
